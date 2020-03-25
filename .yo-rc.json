@@ -1,0 +1,64 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.optimumits.lintest.gateway",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "6.8.0",
+    "applicationType": "gateway",
+    "baseName": "jhipsterlintestgateway",
+    "packageName": "com.optimumits.lintest.gateway",
+    "packageFolder": "com/optimumits/lintest/gateway",
+    "serverPort": "8093",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": "elasticsearch",
+    "messageBroker": "kafka",
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "YjFiZjdmMDU1NzQ3ODkzZDA5MzY4Njk1ZmE2MzZjZGZlN2JjZDVhM2YxNjg0ZTFhMWUwNDQ0MzZkMTFlMWFmZTRiNWI2ODI0MDMzYzZmYTQ2MjlhYjBmZjhjNTE5ODE1ODJjM2E4YzJlZDM4YzA4NTg5NTBjYTE0MmM2MzBkODA=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "react",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "creationTimestamp": 1585129304328,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [
+      {
+        "name": "generator-jhipster-docker",
+        "version": "2.5.0"
+      },
+      {
+        "name": "generator-jhipster-standalone-profile",
+        "version": "2.3.0"
+      },
+      {
+        "name": "generator-jhipster-audit-helper",
+        "version": "1.0.3"
+      },
+      {
+        "name": "generator-jhipster-translation",
+        "version": "1.0.4"
+      },
+      {
+        "name": "generator-jhipster-social-login-api",
+        "version": "0.0.1"
+      }
+    ],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": ["en"],
+    "blueprints": []
+  }
+}
