@@ -127,7 +127,7 @@ jhipster:
     use-json-format: false # By default, logs are not in Json format
     logstash: # Forward logs to logstash over a socket, used by LoggingConfiguration
       enabled: true
-      host: localhost
+      host: jhipster-logstash
       port: 5000
       queue-size: 512
   audit-events:
