@@ -115,12 +115,12 @@ jhipster:
     base-url: http://127.0.0.1:8093
   metrics:
     logs: # Reports metrics in the logs
-      enabled: true
+      enabled: false
       report-frequency: 60 # in seconds
   logging:
     use-json-format: false # By default, logs are not in Json format
     logstash: # Forward logs to logstash over a socket, used by LoggingConfiguration
-      enabled: true
+      enabled: false
       host: localhost
       port: 5000
       queue-size: 512
