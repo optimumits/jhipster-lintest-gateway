@@ -97,7 +97,7 @@
     "sourcemap-istanbul-instrumenter-loader": "0.2.0",
     "stripcomment-loader": "0.1.0",
     "style-loader": "1.0.1",
-    "swagger-ui-dist": "3.24.3",
+    "swagger-ui-dist": "4.1.3",
     "generator-jhipster-docker": "2.5.0",
     "generator-jhipster-standalone-profile": "2.3.0",
     "generator-jhipster-audit-helper": "1.0.3",
